@@ -1,6 +1,6 @@
-# 🧠 Solana Anchor Mastery – 30 Practice Projects
+# 🧠 Solana Anchor Mastery – Practice Projects
 
-Welcome to the ultimate collection of **30 Solana Anchor projects** designed to boost your knowledge of Solana's programming model and help you master Anchor framework. This roadmap is divided into **Beginner**, **Intermediate**, and **Advanced** sections.
+Welcome to the ultimate collection of **Solana Anchor projects** designed to boost your knowledge of Solana's programming model and help you master Anchor framework. This roadmap is divided into **Beginner**, **Intermediate**, and **Advanced** sections.
 
 ---
 
