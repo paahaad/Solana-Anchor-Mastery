@@ -1,0 +1,24 @@
+{
+  "license": "ISC",
+  "scripts": {
+    "test": "bun test",
+    "lint:fix": "prettier */*.js \"*/**/*{.js,.ts}\" -w",
+    "lint": "prettier */*.js \"*/**/*{.js,.ts}\" --check"
+  },
+  "dependencies": {
+    "@coral-xyz/anchor": "^0.31.1",
+    "@solana/web3.js": "^1.98.2",
+    "anchor-litesvm": "^0.1.2",
+    "litesvm": "^0.2.0"
+  },
+  "devDependencies": {
+    "@types/bn.js": "^5.1.0",
+    "prettier": "^2.6.2",
+    "typescript": "^5.7.3",
+    "@types/bun": "latest"
+  },
+  "name": "vault",
+  "module": "index.ts",
+  "type": "module",
+  "private": true
+}
